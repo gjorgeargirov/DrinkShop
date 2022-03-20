@@ -1,0 +1,13 @@
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\bin\Debug\netcoreapp3.1\DrinkShop.Repository.deps.json
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\bin\Debug\netcoreapp3.1\DrinkShop.Repository.dll
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\bin\Debug\netcoreapp3.1\DrinkShop.Repository.pdb
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\bin\Debug\netcoreapp3.1\DrinkShop.Domain.dll
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\bin\Debug\netcoreapp3.1\DrinkShop.Domain.pdb
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.csproj.AssemblyReference.cache
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.AssemblyInfo.cs
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.csproj.CopyComplete
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.dll
+C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Repository\obj\Debug\netcoreapp3.1\DrinkShop.Repository.pdb

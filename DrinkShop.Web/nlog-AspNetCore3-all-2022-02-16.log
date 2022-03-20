@@ -1,0 +1,9 @@
+2022-02-16 12:29:28.1994|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-02-16 12:29:34.6963|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-02-16 12:29:34.6963|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-02-16 12:29:34.7093|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-02-16 12:37:44.4756|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-02-16 12:37:46.8721|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-02-16 12:37:46.8721|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-02-16 12:37:46.8721|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-02-16 12:38:12.8902|0|INFO|DrinkShop.Services.Implementation.ProductService|Product was successfuly added into Shopping Cart 
